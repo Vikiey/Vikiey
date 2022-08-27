@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vikiey
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and data analysis
 - 🌱 I’m currently learning frontend development
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
